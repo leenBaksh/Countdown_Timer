@@ -1,0 +1,32 @@
+{
+  "name": "@erazebakshi/countdown_timer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^9.0.3",
+    "@types/bcrypt": "^5.0.2",
+    "@types/inquirer": "^9.0.7",
+    "@types/joi": "^17.2.2",
+    "@types/jsonwebtoken": "^9.0.7",
+    "@types/swagger-ui-express": "^4.1.6",
+    "chalk": "^5.3.0",
+    "date-fns": "^4.1.0",
+    "i": "^0.3.7",
+    "inquirer": "^12.0.0",
+    "joi": "^17.13.3",
+    "npm": "^10.9.0",
+    "required": "^1.0.0"
+  }
+}
